@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://mysql-378cc660-awaisbrohi000-4804.c.aivencloud.com:26188/defaultdb
-    username: avnadmin
-    password: AVNS_LFZ1aHcRw0fhXuopnRF
+    url: jdbc:mysql://localhost:3333/books_management
+    username: root
+    password: Pirates@29
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
